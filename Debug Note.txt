@@ -1,0 +1,24 @@
+2015-11-19 Yixiao
+Bug Fixed:
+In MainController
+1 Node saving problem, node is saving properly right now.
+2 Edge delete problem, ATTENTION: EdgeID can't be used as Index when try to delete Edge!!!
+
+In AdminMapDisplayPanel
+3 Allow delete Point/Edge operation been executed in any mode
+
+In AdminMapEdit
+4 Refresh panel after point been deleted
+
+Bug Remained:
+1 Cannot save Edges properly.
+2 EdgeID need to be renumbered after one Edge has been deleted!
+
+
+Demands:
+ModelSubsystem: Provide an method setID(int ID) for Node and Edge class that allows me to reset the ID;
+
+
+Possible Feature:
+1 Auto show preview in Add/Delete MapPage
+2 Consider about adding Keyboard response? For enter?
