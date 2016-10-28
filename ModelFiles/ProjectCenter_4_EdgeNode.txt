@@ -1,0 +1,72 @@
+NODES
+1 890 747 0 ProjectCenter 4 Waypoint Waypoint;
+2 890 689 0 ProjectCenter 4 Waypoint Waypoint;
+3 890 533 0 ProjectCenter 4 Waypoint Waypoint;
+4 890 385 0 ProjectCenter 4 Waypoint Waypoint;
+5 773 385 0 ProjectCenter 4 Waypoint Waypoint;
+6 703 385 0 ProjectCenter 4 Waypoint Waypoint;
+7 542 385 0 ProjectCenter 4 Waypoint Waypoint;
+8 456 385 0 ProjectCenter 4 Waypoint Waypoint;
+9 456 429 0 ProjectCenter 4 Waypoint Waypoint;
+10 404 429 0 ProjectCenter 4 Waypoint Waypoint;
+11 310 429 0 ProjectCenter 4 Waypoint Waypoint;
+12 895 875 0 ProjectCenter 4 Office PC;204;
+13 972 689 0 ProjectCenter 4 Office PC;203;
+14 967 533 0 ProjectCenter 4 Office PC;202;
+15 972 380 0 ProjectCenter 4 Office PC;200A;
+16 967 247 0 ProjectCenter 4 Office PC;219;
+17 880 204 0 ProjectCenter 4 Office PC;216;
+18 762 231 0 ProjectCenter 4 Office PC;215;
+19 542 226 0 ProjectCenter 4 Office PC;214;
+20 450 197 0 ProjectCenter 4 Office PC;213;
+21 404 358 0 ProjectCenter 4 Office PC;210A;
+22 310 309 2 ProjectCenter 4 Stairs Stairs;
+23 39 240 0 ProjectCenter 4 Office PC;212A;
+24 234 247 0 ProjectCenter 4 Office PC;212;
+25 110 423 0 ProjectCenter 4 Office PC;211;
+26 234 423 0 ProjectCenter 4 Waypoint Waypoint;
+27 234 554 0 ProjectCenter 4 Office PC;210A;
+28 128 612 0 ProjectCenter 4 Office PC;210;
+29 94 847 0 ProjectCenter 4 Office PC;208;
+30 234 847 0 ProjectCenter 4 Waypoint Waypoint;
+31 300 842 0 ProjectCenter 4 Office PC;207;
+32 542 847 0 ProjectCenter 4 Office PC;206;
+33 734 852 0 ProjectCenter 4 Office PC;205;
+34 655 626 0 ProjectCenter 4 Office PC;201;
+35 310 612 0 ProjectCenter 4 Office PC;201C;
+EDGES
+1 1 2
+2 2 3
+3 3 4
+4 4 5
+5 5 6
+6 6 7
+7 7 8
+8 8 9
+9 9 10
+10 10 11
+11 12 1
+12 13 2
+13 14 3
+14 15 4
+15 16 15
+16 17 4
+17 18 5
+18 19 7
+19 20 8
+20 21 10
+21 22 11
+22 24 26
+23 26 11
+24 23 24
+25 25 26
+26 27 28
+27 28 30
+28 29 30
+29 30 31
+30 31 32
+31 32 33
+32 32 34
+33 34 6
+34 35 11
+35 35 31

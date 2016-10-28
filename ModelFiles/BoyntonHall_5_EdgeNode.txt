@@ -1,0 +1,128 @@
+NODES
+1 870 781 0 BoyntonHall 5 Stairs Stairs;
+2 870 750 0 BoyntonHall 5 Classroom BH;307A;
+3 870 651 0 BoyntonHall 5 Waypoint Waypoint;
+4 870 619 0 BoyntonHall 5 Waypoint Waypoint;
+7 664 677 0 BoyntonHall 5 Waypoint Waypoint;
+8 635 677 0 BoyntonHall 5 Waypoint Waypoint;
+9 571 677 0 BoyntonHall 5 Waypoint Waypoint;
+10 557 486 0 BoyntonHall 5 Waypoint Waypoint;
+12 503 435 0 BoyntonHall 5 Waypoint Waypoint;
+13 471 435 0 BoyntonHall 5 Waypoint Waypoint;
+14 432 435 0 BoyntonHall 5 Waypoint Waypoint;
+15 392 435 0 BoyntonHall 5 Waypoint Waypoint;
+16 299 435 0 BoyntonHall 5 Waypoint Waypoint;
+17 231 443 0 BoyntonHall 5 Waypoint Waypoint;
+18 210 443 0 BoyntonHall 5 Waypoint Waypoint;
+32 307 715 0 BoyntonHall 5 Waypoint Waypoint;
+33 333 715 0 BoyntonHall 5 Classroom BH;300A;
+34 333 854 0 BoyntonHall 5 Waypoint Waypoint;
+35 446 854 0 BoyntonHall 5 Waypoint Waypoint;
+37 432 486 0 BoyntonHall 5 Waypoint Waypoint;
+39 525 151 0 BoyntonHall 5 Classroom BH;309C;
+40 402 139 0 BoyntonHall 5 Classroom BH;304;
+41 333 246 0 BoyntonHall 5 Classroom BH;303;
+42 392 211 0 BoyntonHall 5 Waypoint Waypoint;
+46 427 386 0 BoyntonHall 5 Elevator Elevator;
+47 392 386 0 BoyntonHall 5 Waypoint Waypoint;
+48 70 191 0 BoyntonHall 5 Waypoint Waypoint;
+49 42 83 0 BoyntonHall 5 Classroom BH;301A;
+53 843 862 0 BoyntonHall 5 Classroom BH;308;
+72 491 715 0 BoyntonHall 5 Classroom BH;3006;
+73 476 486 0 BoyntonHall 5 Waypoint Waypoint;
+76 916 619 0 BoyntonHall 5 Waypoint Waypoint;
+77 983 619 0 BoyntonHall 5 Waypoint Waypoint;
+78 916 688 0 BoyntonHall 5 Classroom BH;307B;
+79 983 688 0 BoyntonHall 5 Classroom BH;307C;
+80 787 619 0 BoyntonHall 5 Waypoint Waypoint;
+81 787 677 0 BoyntonHall 5 Waypoint Waypoint;
+83 664 290 0 BoyntonHall 5 Waypoint Waypoint;
+84 635 290 0 BoyntonHall 5 Waypoint Waypoint;
+87 774 290 0 BoyntonHall 5 Waypoint Waypoint;
+88 774 378 0 BoyntonHall 5 Waypoint Waypoint;
+89 888 300 0 BoyntonHall 5 Waypoint Waypoint;
+90 937 211 0 BoyntonHall 5 Classroom BH;307D;
+91 937 300 0 BoyntonHall 5 Waypoint Waypoint;
+92 774 109 0 BoyntonHall 5 Waypoint Waypoint;
+93 787 499 0 BoyntonHall 5 Classroom BH;307;
+94 392 246 0 BoyntonHall 5 Waypoint Waypoint;
+95 503 344 0 BoyntonHall 5 Waypoint Waypoint;
+96 503 246 0 BoyntonHall 5 Waypoint Waypoint;
+97 557 435 0 BoyntonHall 5 Waypoint Waypoint;
+98 463 344 0 BoyntonHall 5 Classroom BH;303A;
+99 109 715 0 BoyntonHall 5 Classroom BH;301;
+100 231 609 0 BoyntonHall 5 Waypoint Waypoint;
+101 266 609 0 BoyntonHall 5 Classroom BH;302;
+102 109 609 0 BoyntonHall 5 Classroom BH;301;
+103 109 443 0 BoyntonHall 5 Classroom BH;301;
+104 627 486 0 BoyntonHall 5 Classroom BH;309;
+105 446 651 0 BoyntonHall 5 Waypoint Waypoint;
+106 333 651 3 BoyntonHall 5 Stairs Stairs;
+107 923 781 0 BoyntonHall 5 Waypoint Waypoint;
+108 937 836 4 BoyntonHall 5 Stairs Stairs;
+EDGES
+1 1 2
+2 2 3
+3 3 4
+7 7 8
+8 8 9
+9 9 10
+12 12 13
+13 13 14
+14 14 15
+15 15 16
+16 16 17
+17 17 18
+32 32 33
+33 33 34
+34 34 35
+46 53 1
+63 46 14
+64 47 15
+69 40 42
+70 14 37
+84 49 48
+87 72 73
+88 73 13
+89 4 76
+90 76 77
+91 77 79
+92 76 78
+94 7 81
+95 80 4
+96 80 81
+100 84 83
+101 88 89
+102 83 87
+103 87 88
+104 87 89
+105 90 91
+106 89 91
+107 92 87
+108 88 93
+109 93 80
+110 47 94
+111 42 94
+112 94 41
+113 96 95
+114 95 12
+115 97 12
+116 97 10
+117 39 96
+118 95 98
+119 32 99
+120 102 99
+121 102 100
+122 100 101
+123 103 102
+124 103 18
+125 48 103
+126 83 7
+127 10 104
+128 104 84
+129 104 8
+130 37 105
+131 105 35
+132 106 105
+133 1 107
+134 107 108

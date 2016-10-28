@@ -1,0 +1,130 @@
+<html>
+<head>
+</head>
+<body style="font-size:24;">
+<span style="" bold="" text-decoration="" underline="">&nbsp;
+<span style="font-weight: bold; text-decoration:underline;">How to Select Start and End location</span></span>
+<br>
+<br>
+&nbsp;1.  To select Building click on the drop down list in the top right of GoatToGo Floor drop down list to navigate through the list of available maps.
+<br>
+&nbsp;2. Once a building has been selected then from the same drop down list you will be able to select a floor.
+<br>
+&nbsp;3. After you have selected your chosen floor then right click on map and select set as start or end location.
+<br>
+&nbsp;4. Now that you have selected your start or end location to select the opposite location go back to campus map and repeat steps 1-3. 
+<br>
+<br>
+<span style="" bold="" text-decoration="" underline="">&nbsp;
+<span style="font-weight: bold; text-decoration:underline;">Following the direction instructions</span></span>
+<br>
+<br>
+&nbsp;1. Once source and destination locations are selected click on the GET Directions buttons.
+<br>
+&nbsp;2. Follow the route as highlighted in the map.
+<br>
+&nbsp;3. To navigate through different maps in the highlighted route click on the next and previous buttons.
+<br>
+&nbsp;4. You can select different source and destination by clicking on the New Search button.
+<br>
+<br>
+<span style="" bold="" text-decoration="" underline="">&nbsp;
+<span style="font-weight: bold; text-decoration:underline;">Areas of Interest</span></span>
+<br>
+<br>
+&nbsp;1. Click on the filters on the right side to see list of all filtered locations.
+<br>
+&nbsp;2. To change a filter click on any other available filter icons to the left of current listed filers, on the ride side of the screen.
+<br>
+&nbsp;3. Once a filter has been selected you will see on the current selected map points that have the filter value.
+<br>
+&nbsp;4. If you would like to hide the filtered points then click on the "Hide Locations" button.
+<br>
+&nbsp;4. To dismiss the filter panel and filtered points click on the "Done" button.
+<br>
+<br>
+<span style="" bold="" text-decoration="" underline="">&nbsp;
+<span style="font-weight: bold; text-decoration:underline;">Additional Information on buildings.</span></span>
+<br>
+<br>
+&nbsp;To see more information related to building when on campus map right click and select "See building info". You can see the building image and some textual information realted to the building.
+<br>
+<br>
+<span style="" bold="" text-decoration="" underline="">&nbsp;
+<span style="font-weight: bold; text-decoration:underline;">Admin</span></span>
+<br>
+<br>
+&nbsp; To edit maps and points within a map you need a valid admin credentials.
+<br>
+&nbsp;1. To login as Admin select the "Admin" button in the top right of GoatToGo.
+<br>
+&nbsp;2. Once the admin page is selected you will be prompted for your user name and password. 
+<br>
+&nbsp;3. Enter your user name in user name field.
+<br>
+&nbsp;4. Enter your password into the password field
+<br>
+&nbsp;5. To login select the "Sign in" button. If you wish to go back press the "Back" button.
+<br>
+&nbsp;6. If the credentials were correct then you will be displayed a list of current maps within GoatToGo.
+<br>
+&nbsp;7. You can add, delete, edit, or preview maps(See details instructions on each below).
+<br>
+&nbsp;8. To logout select the "Logout" button in the top right of GoatToGo.
+<br>
+<br>
+<span style="" bold="" text-decoration="" underline="">&nbsp;
+<span style="font-weight: bold; text-decoration:underline;">Admin Add Map(s)</span></span>
+<br>
+<br>
+&nbsp; Once you have selected add on the admin page. You will be able to add a map to GoatToGo
+<br>
+&nbsp;1. You will be prompted to say if your map you would like to add is a campus map. If it is then selected yes, otherwise select no.
+<br>
+&nbsp;2. Type in the desired building name for the map you would like to add. 
+<br>
+&nbsp;3. From the drop down select which floor the map is going to be.
+<br>
+&nbsp;4. To select a map image click on the folder icon.
+<br>
+&nbsp;5. Next, navigate to where the image is located and double click to select which image for the map you would like to add.
+<br>
+&nbsp;6. Once all of the map information is filled in then click the "Ok" button. Otherwise, select cancel.
+<br>
+&nbsp;7. If "Ok" was selected then the map should be added. If cancel was chosen then there will be no map added.
+<br>
+<br>
+<span style="" bold="" text-decoration="" underline="">&nbsp;
+<span style="font-weight: bold; text-decoration:underline;">Admin Delete Map(s)</span></span>
+<br>
+<br>
+&nbsp;1. To delete a map left click on a map of choice from them map list.
+<br>
+&nbsp;2. Then click delete and this will delete the selected map from the maps that will be displayed in GoatToGo.
+<br>
+&nbsp;** THE MAP POINTS WILL NOT BE DELETED IF ACCIDENTAL DELETE HAPPENS **
+<br>
+<br>
+<span style="" bold="" text-decoration="" underline="">&nbsp;
+<span style="font-weight: bold; text-decoration:underline;">Admin Edit Map</span></span>
+<br>
+<br>
+&nbsp; Once you have selected edit on the admin page. You will be able to edit a map to GoatToGo
+<br>
+&nbsp;1. To edit a map on left click on the map you would like to edit on the map list.
+<br>
+&nbsp;2. You will be displayed the map that you selected.
+<br>
+&nbsp;3. To create one point on the map select the 
+<br>
+&nbsp;4. To select a map image click on the folder icon.
+<br>
+&nbsp;5. Next, navigate to where the image is located and double click to select which image for the map you would like to add.
+<br>
+&nbsp;6. Once all of the map information is filled in then click the "Ok" button. Otherwise, select cancel.
+<br>
+&nbsp;7. If "Ok" was selected then the map should be added. If cancel was chosen then there will be no map added.
+<br>
+<br>
+</body>
+</html>

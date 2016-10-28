@@ -1,0 +1,556 @@
+NODES
+1 446 133 0 CampusMap 0 Building Goddrd;Hall;
+5 819 324 0 CampusMap 0 Building Phi;Gamma;Delta;
+6 721 297 0 KavenHall 0 Building Kaven;Hall;
+7 996 398 0 CampusMap 0 Building Theta;Chi;
+9 979 491 0 CampusMap 0 Building Zeta;Psi;
+10 972 527 0 CampusMap 0 Building Lambda;Chi;Alpha;
+12 788 566 0 PoliceOffice 0 Building Campus;Police;
+13 794 644 0 FoundersHall 0 Building Founders;Hall;
+14 864 691 0 CampusMap 0 Building Sigma;Pi;
+15 989 712 0 CampusMap 0 Building Sigma;Phi;Theta;
+16 759 768 0 InstitueHall 0 Building Institue;Hall;
+17 794 760 0 CampusMap 0 Building Air;force;and;Aerospace;studies;
+18 839 872 0 CampusMap 0 Building Sigma;Phi;Kappa;
+19 759 843 0 AlphaChiRho 0 Building Alpha;Chi;Rho;
+20 677 788 0 SigmaPhiEpsilon 0 Building Sigma;Phi;Epsilon;
+21 653 671 0 SkullTomb 0 Building Skull;Tomb;
+22 653 837 0 CampusMap 0 Building Sigma;Phi;Epsilon;
+23 560 843 0 CampusMap 0 Building 16;Elbridge;
+24 571 906 0 CampusMap 0 Building Phi;Sigma;Sigma;
+25 436 788 0 CampusMap 0 Building Student;Development;and;Counseling;Centeer;
+26 640 415 0 Library 0 Building Gordon;Library;
+28 544 462 0 PowerHouse 0 Building Power;House;
+30 364 133 0 CampusMap 0 Building Higgins;House;
+31 347 178 0 CampusMap 0 Building Higgins;House;
+32 313 191 0 CampusMap 0 Building Higgins;House;
+38 380 614 0 AldenMemorial 0 Building Alden;Memorial;
+39 302 599 0 EllsworthApartments 0 Building Ellsworth;Apartments;
+40 302 491 0 BartlettCenter 0 Building Bartlett;Center;
+41 325 391 0 AlumniGym 0 Building Alumni;Gym;
+42 218 370 0 HarringtonAuditorium 0 Building Harrington;Auditorium;
+43 95 428 0 Gym 0 Building Sport&Rereeation;Center;
+47 72 691 0 CampusMap 0 Building 26;Hackfeld;
+48 109 747 0 CampusMap 0 Building 25;Trowbridge;
+49 145 889 0 CampusMap 0 Building 20;Trowbridgr;Road;
+50 237 805 0 CampusMap 0 Building Collegiate;Religious;Center;
+51 232 843 0 CampusMap 0 Building Collegiate;Religious;Center;
+52 166 788 0 InternationalHouse 0 Building International;House;
+53 237 768 0 CampusMap 0 Building Collegiate;Religious;Center;
+54 313 768 0 CampusMap 0 Building 22;Schussler;
+55 302 788 0 CampusMap 0 Building OASIS;
+56 213 978 0 CampusMap 0 Building 16Elbridge;
+57 172 686 0 FullerApartments 0 Building Fuller;Apartments;
+58 232 699 0 CampusMap 0 Building Fuller;Apartments;
+60 264 691 0 CampusMap 0 ParkingLot ParkingLot;
+61 369 724 0 CampusMap 0 ParkingLot ParkingLot;
+62 759 813 0 CampusMap 0 ParkingLot ParkingLot;
+63 881 614 0 CampusMap 0 ParkingLot ParkingLot;
+64 158 95 0 CampusMap 0 ParkingLot ParkingLot;
+65 709 441 0 CampusMap 0 ParkingLot ParkingLot;
+66 744 462 0 CampusMap 0 ParkingLot ParkingLot;
+67 721 535 0 CampusMap 0 ParkingLot ParkingLot;
+68 693 527 0 CampusMap 0 ParkingLot ParkingLot;
+69 716 614 0 CampusMap 0 ParkingLot ParkingLot;
+70 979 1016 0 CampusMap 0 Waypoint WayPoint;
+71 989 955 0 CampusMap 0 Waypoint WayPoint;
+72 864 962 0 CampusMap 0 Waypoint WayPoint;
+73 839 967 0 CampusMap 0 Waypoint WayPoint;
+74 693 978 0 CampusMap 0 Waypoint WayPoint;
+75 374 1016 0 CampusMap 0 Waypoint WayPoint;
+76 247 1016 0 CampusMap 0 Waypoint WayPoint;
+77 247 984 0 CampusMap 0 Waypoint WayPoint;
+78 275 818 0 CampusMap 0 Waypoint WayPoint;
+79 280 768 0 CampusMap 0 Waypoint WayPoint;
+80 285 712 0 CampusMap 0 Waypoint WayPoint;
+81 294 671 0 CampusMap 0 Waypoint WayPoint;
+82 414 686 0 CampusMap 0 Waypoint WayPoint;
+83 407 747 0 CampusMap 0 Waypoint WayPoint;
+84 407 776 0 CampusMap 0 Waypoint WayPoint;
+85 388 889 0 CampusMap 0 Waypoint WayPoint;
+86 551 881 0 CampusMap 0 Waypoint WayPoint;
+87 640 872 0 CampusMap 0 Waypoint WayPoint;
+88 701 889 0 CampusMap 0 Waypoint WayPoint;
+89 721 799 0 CampusMap 0 Waypoint WayPoint;
+90 728 724 0 CampusMap 0 Waypoint WayPoint;
+91 794 729 0 CampusMap 0 Waypoint WayPoint;
+92 864 736 0 CampusMap 0 Waypoint WayPoint;
+93 902 736 0 CampusMap 0 Waypoint WayPoint;
+94 916 652 0 CampusMap 0 Waypoint WayPoint;
+95 924 594 0 CampusMap 0 Waypoint WayPoint;
+96 934 561 0 CampusMap 0 Waypoint WayPoint;
+97 943 506 0 CampusMap 0 Waypoint WayPoint;
+98 943 441 0 CampusMap 0 Waypoint WayPoint;
+99 959 384 0 CampusMap 0 Waypoint WayPoint;
+100 972 339 0 CampusMap 0 Waypoint WayPoint;
+101 810 256 0 CampusMap 0 Waypoint WayPoint;
+102 794 318 0 CampusMap 0 Waypoint WayPoint;
+103 794 349 0 CampusMap 0 Waypoint WayPoint;
+104 759 546 0 CampusMap 0 Waypoint WayPoint;
+105 735 681 0 CampusMap 0 Waypoint WayPoint;
+106 667 729 0 CampusMap 0 Waypoint WayPoint;
+107 587 747 0 CampusMap 0 Waypoint WayPoint;
+108 487 724 0 CampusMap 0 Waypoint WayPoint;
+109 422 632 0 CampusMap 0 Waypoint WayPoint;
+110 436 554 0 CampusMap 0 Waypoint WayPoint;
+111 446 506 0 CampusMap 0 Waypoint WayPoint;
+112 422 497 0 CampusMap 0 Waypoint WayPoint;
+113 355 484 0 CampusMap 0 Waypoint WayPoint;
+114 347 535 0 CampusMap 0 Waypoint WayPoint;
+115 330 561 0 CampusMap 0 Waypoint WayPoint;
+116 275 561 0 CampusMap 0 Waypoint WayPoint;
+118 237 604 0 CampusMap 0 Waypoint WayPoint;
+119 237 652 0 CampusMap 0 Waypoint WayPoint;
+120 196 644 0 CampusMap 0 Waypoint WayPoint;
+121 158 644 0 CampusMap 0 Waypoint WayPoint;
+123 145 699 0 CampusMap 0 Waypoint WayPoint;
+124 134 760 0 CampusMap 0 Waypoint WayPoint;
+125 120 881 0 CampusMap 0 Waypoint WayPoint;
+126 95 1016 0 CampusMap 0 Waypoint WayPoint;
+127 881 872 0 CampusMap 0 Waypoint WayPoint;
+128 839 1016 0 CampusMap 0 Waypoint WayPoint;
+129 1016 754 0 CampusMap 0 Waypoint WayPoint;
+130 984 747 0 CampusMap 0 Waypoint WayPoint;
+131 721 357 0 CampusMap 0 Waypoint WayPoint;
+132 759 349 0 CampusMap 0 Waypoint WayPoint;
+133 1011 357 0 CampusMap 0 Waypoint WayPoint;
+134 776 462 0 CampusMap 0 Waypoint WayPoint;
+135 753 224 0 CampusMap 0 Waypoint WayPoint;
+136 667 178 0 CampusMap 0 Waypoint WayPoint;
+137 513 95 0 CampusMap 0 Waypoint WayPoint;
+138 487 214 0 CampusMap 0 Waypoint WayPoint;
+139 487 247 0 CampusMap 0 Waypoint WayPoint;
+140 476 297 0 CampusMap 0 Waypoint WayPoint;
+141 470 370 0 CampusMap 0 Waypoint Fountain;
+142 422 363 0 CampusMap 0 Waypoint WayPoint;
+143 374 357 0 CampusMap 0 Waypoint WayPoint;
+144 364 403 0 CampusMap 0 Waypoint WayPoint;
+145 347 441 0 CampusMap 0 Waypoint WayPoint;
+146 294 428 0 CampusMap 0 ParkingLot Parking;Lot;
+147 218 415 0 CampusMap 0 Waypoint WayPoint;
+148 166 415 0 CampusMap 0 Waypoint WayPoint;
+149 134 471 0 CampusMap 0 Waypoint WayPoint;
+150 134 522 0 CampusMap 0 Waypoint WayPoint;
+151 166 554 0 CampusMap 0 Waypoint WayPoint;
+153 153 581 0 DanielsHall 0 Building Daniels;Hall;
+154 196 491 0 CampusMap 0 Waypoint WayPoint;
+155 400 546 0 CampusMap 0 Waypoint WayPoint;
+157 693 644 0 CampusMap 0 Waypoint WayPoint;
+158 686 599 0 CampusMap 0 Waypoint WayPoint;
+159 677 561 0 CampusMap 0 Waypoint WayPoint;
+160 653 554 0 CampusMap 0 Waypoint WayPoint;
+161 640 581 0 CampusMap 0 Waypoint WayPoint;
+162 612 614 0 CampusMap 0 Waypoint WayPoint;
+163 587 632 0 CampusMap 0 Waypoint WayPoint;
+164 544 652 0 CampusMap 0 Waypoint WayPoint;
+165 500 632 0 CampusMap 0 Waypoint WayPoint;
+166 481 604 0 CampusMap 0 Waypoint WayPoint;
+167 470 566 0 CampusMap 0 Waypoint WayPoint;
+168 560 581 0 CampusMap 0 Waypoint WayPoint;
+169 571 554 0 CampusMap 0 Waypoint WayPoint;
+170 582 491 0 CampusMap 0 Waypoint WayPoint;
+171 592 449 0 CampusMap 0 Waypoint WayPoint;
+172 600 408 0 CampusMap 0 Waypoint WayPoint;
+173 612 363 0 CampusMap 0 Waypoint WayPoint;
+174 619 329 0 CampusMap 0 Waypoint WayPoint;
+176 560 289 0 CampusMap 0 Waypoint WayPoint;
+177 537 277 0 CampusMap 0 Waypoint WayPoint;
+178 709 707 0 CampusMap 0 Waypoint WayPoint;
+179 640 699 0 CampusMap 0 Waypoint WayPoint;
+180 551 691 0 CampusMap 0 Waypoint WayPoint;
+181 529 671 0 CampusMap 0 Waypoint WayPoint;
+182 523 581 0 CampusMap 0 Waypoint WayPoint;
+183 456 428 0 CampusMap 0 Waypoint WayPoint;
+184 481 476 0 CampusMap 0 Building Stratton;Hall;
+185 523 384 0 CampusMap 0 Waypoint WayPoint;
+186 693 391 0 CampusMap 0 Waypoint WayPoint;
+187 686 441 0 CampusMap 0 Waypoint WayPoint;
+188 677 491 0 CampusMap 0 Waypoint WayPoint;
+189 667 527 0 CampusMap 0 Waypoint WayPoint;
+191 145 391 0 CampusMap 0 Waypoint WayPoint;
+192 145 370 0 CampusMap 0 Waypoint WayPoint;
+193 145 339 0 CampusMap 0 Waypoint WayPoint;
+194 158 318 0 CampusMap 0 Waypoint WayPoint;
+196 127 283 0 CampusMap 0 Waypoint WayPoint;
+197 120 262 0 CampusMap 0 Waypoint WayPoint;
+198 134 247 0 CampusMap 0 Waypoint WayPoint;
+199 145 224 0 CampusMap 0 Waypoint WayPoint;
+200 166 200 0 CampusMap 0 Waypoint WayPoint;
+201 218 133 0 CampusMap 0 Waypoint WayPoint;
+202 275 79 0 CampusMap 0 Waypoint WayPoint;
+203 339 1 0 CampusMap 0 Waypoint WayPoint;
+204 374 10 0 CampusMap 0 Waypoint WayPoint;
+205 313 100 0 CampusMap 0 Waypoint WayPoint;
+206 318 133 0 CampusMap 0 Waypoint WayPoint;
+207 313 156 0 CampusMap 0 Waypoint WayPoint;
+208 339 156 0 CampusMap 0 Waypoint WayPoint;
+209 339 133 0 CampusMap 0 Waypoint WayPoint;
+210 355 108 0 CampusMap 0 Waypoint WayPoint;
+211 380 73 0 CampusMap 0 Waypoint WayPoint;
+212 380 38 0 CampusMap 0 Waypoint WayPoint;
+213 431 1 0 CampusMap 0 Waypoint WayPoint;
+214 347 289 0 CampusMap 0 Waypoint WayPoint;
+215 355 262 0 CampusMap 0 Waypoint WayPoint;
+216 374 224 0 CampusMap 0 Waypoint WayPoint;
+217 374 184 0 CampusMap 0 Waypoint WayPoint;
+218 887 554 0 CampusMap 0 Waypoint WayPoint;
+219 864 554 0 CampusMap 0 Waypoint WayPoint;
+220 839 546 0 CampusMap 0 Waypoint WayPoint;
+222 776 535 0 CampusMap 0 Waypoint WayPoint;
+223 446 644 0 CampusMap 0 Waypoint WayPoint;
+224 523 768 0 CampusMap 0 Waypoint WayPoint;
+225 566 783 0 CampusMap 0 Waypoint WayPoint;
+226 612 776 0 CampusMap 0 Waypoint WayPoint;
+227 653 760 0 CampusMap 0 Waypoint WayPoint;
+228 158 242 0 CampusMap 0 Waypoint WayPoint;
+229 179 262 0 CampusMap 0 Waypoint WayPoint;
+230 158 297 0 CampusMap 0 Waypoint WayPoint;
+231 487 527 0 CampusMap 0 Waypoint WayPoint;
+233 218 561 0 CampusMap 0 Waypoint WayPoint;
+234 892 506 0 CampusMap 0 Building 10;Faraday;
+235 902 441 0 CampusMap 0 Waypoint WayPoint;
+236 897 471 0 CampusMap 0 Building 10;Faraday;
+237 819 471 0 EastHall 0 Building East;Hall;
+238 810 540 0 CampusMap 0 Waypoint WayPoint;
+239 819 506 0 EastHall 0 Building East;Hall;
+240 109 632 0 CampusMap 0 Waypoint WayPoint;
+241 103 671 0 CampusMap 0 Waypoint WayPoint;
+242 72 660 0 CampusMap 0 Building Stoddard;Complex;
+243 57 632 0 CampusMap 0 Waypoint WayPoint;
+244 41 671 0 CampusMap 0 Building Health;Center;
+245 247 554 0 CampusMap 0 Waypoint WayPoint;
+246 529 242 0 AtwaterKent 0 Building AK;LAB;
+247 571 262 0 AtwaterKent 0 Building AK;LAB;
+248 380 297 0 CampusCenter 0 Building Rubin;Campus;Center;
+250 431 214 0 CampusMap 0 Waypoint WayPoint;
+251 414 302 0 CampusMap 0 Waypoint WayPoint;
+252 446 289 1 OlinHall 3 Building Olin;Hall;
+253 400 339 0 CampusMap 0 Waypoint WayPoint;
+254 364 318 0 CampusCenter 0 Building Rubin;Campus;Center;
+255 523 324 0 SalisburyLab 0 Building Slisbury;Laboratories;
+256 544 357 0 SalisburyLab 0 Building Salisbury;Laboratories;
+257 619 471 0 CampusMap 0 Waypoint WayPoint;
+258 632 506 0 CampusMap 0 Waypoint WayPoint;
+259 632 535 0 CampusMap 0 Waypoint WayPoint;
+260 27 614 0 CampusMap 0 Waypoint WayPoint;
+261 4 581 0 CampusMap 0 Waypoint WayPoint;
+262 4 546 0 CampusMap 0 Waypoint WayPoint;
+263 57 506 0 CampusMap 0 Waypoint WayPoint;
+264 109 506 0 CampusMap 0 Waypoint WayPoint;
+265 95 554 0 CampusMap 0 Building Morgan;Hall;
+267 544 566 2 BoyntonHall 3 Building Boynton;Hall;
+268 500 561 1 BoyntonHall 3 Building Boynton;Hall;
+269 523 546 3 BoyntonHall 4 Building Boynton;Hall;
+270 544 535 0 CampusMap 0 Waypoint WayPoint;
+271 451 471 0 CampusMap 0 Waypoint WayPoint;
+272 414 421 0 HigginsLab 0 Building Higgins;Laboratories;
+273 374 441 0 HigginsLab 0 Building Higgins;Laboratories;
+274 407 178 0 CampusMap 0 Waypoint WayPoint;
+275 744 632 0 CampusMap 0 Waypoint WayPoint;
+276 592 302 0 CampusMap 0 Waypoint WayPoint;
+277 645 283 1 FullerLab 4 Building FullerLab;
+278 645 471 0 CampusMap 0 Waypoint WayPoint;
+279 487 391 1 ProjectCenter 3 Building ProjectCenter;
+280 667 277 5 FullerLab 2 Building FullerLab;
+281 677 302 0 CampusMap 0 Waypoint NULL;
+EDGES
+1 70 71
+2 71 72
+3 72 73
+4 73 74
+5 74 75
+6 75 76
+7 76 77
+8 77 78
+9 78 79
+10 79 80
+11 80 81
+12 81 82
+13 82 83
+14 83 84
+15 84 85
+16 85 86
+17 86 87
+18 87 88
+19 88 89
+20 89 90
+21 90 91
+22 91 92
+23 92 93
+24 93 94
+25 94 95
+26 95 96
+27 96 97
+28 97 98
+29 98 99
+30 99 100
+31 100 101
+32 101 102
+33 102 103
+36 105 90
+37 106 107
+38 107 108
+39 108 82
+40 109 110
+41 110 111
+42 111 112
+43 112 113
+44 113 114
+45 114 115
+46 115 116
+49 118 119
+50 119 81
+51 119 120
+52 120 121
+54 123 124
+55 124 125
+56 125 126
+57 18 127
+58 127 72
+59 128 73
+60 85 75
+61 56 77
+62 51 78
+63 50 78
+64 53 79
+65 54 79
+66 55 79
+67 60 80
+68 58 60
+69 61 83
+70 25 84
+71 61 81
+72 49 125
+73 52 124
+74 123 121
+80 57 123
+81 48 124
+82 23 86
+83 24 86
+84 22 87
+85 88 74
+86 20 89
+87 19 62
+88 16 62
+89 62 89
+90 17 91
+91 14 92
+92 63 94
+93 63 95
+94 93 127
+95 71 129
+96 129 130
+97 130 93
+98 15 130
+100 12 104
+101 104 67
+102 67 69
+103 68 67
+104 133 100
+105 7 99
+106 9 97
+107 10 97
+110 103 134
+111 134 104
+112 132 131
+113 103 132
+114 131 65
+115 65 68
+116 67 66
+117 66 132
+118 38 115
+119 39 115
+120 40 113
+121 40 114
+122 135 136
+123 136 137
+124 137 138
+125 138 139
+126 139 140
+127 140 141
+128 141 142
+129 142 143
+130 143 144
+131 144 145
+132 145 146
+133 146 147
+134 147 148
+135 148 149
+136 149 150
+137 150 151
+139 151 153
+141 42 147
+142 154 148
+143 154 150
+144 154 151
+145 41 146
+149 114 155
+150 155 112
+151 155 110
+152 6 101
+153 135 101
+156 157 158
+157 158 159
+158 159 160
+159 160 161
+160 161 162
+161 162 163
+162 163 164
+163 164 165
+164 165 166
+165 166 167
+167 168 169
+168 169 170
+169 170 171
+170 171 172
+171 172 173
+172 173 174
+175 176 177
+176 177 139
+177 26 172
+181 28 170
+184 90 106
+185 178 179
+186 179 180
+187 180 181
+188 181 182
+189 182 167
+190 182 168
+191 21 179
+192 109 82
+197 141 185
+199 186 187
+200 187 188
+201 188 189
+202 189 160
+203 131 186
+207 191 192
+208 192 193
+209 193 194
+212 196 197
+213 197 198
+214 198 199
+215 199 200
+216 200 201
+217 201 202
+218 202 203
+219 203 204
+220 204 205
+221 205 206
+222 206 207
+223 207 208
+224 208 209
+225 209 210
+226 210 211
+227 211 212
+228 212 204
+229 137 213
+230 206 209
+231 202 205
+232 64 201
+233 64 199
+234 191 148
+235 32 207
+236 31 208
+237 30 208
+239 214 215
+240 215 216
+241 216 217
+242 217 208
+245 218 219
+246 219 220
+249 222 104
+250 218 96
+251 219 63
+254 223 109
+255 223 166
+256 110 167
+257 224 225
+258 225 226
+259 226 227
+260 227 106
+261 224 108
+262 154 146
+263 113 145
+264 228 229
+265 229 230
+266 230 194
+267 196 230
+268 199 228
+270 231 167
+273 198 228
+274 191 43
+275 5 102
+276 151 233
+278 98 235
+279 235 236
+280 234 218
+281 239 238
+282 238 220
+283 238 222
+284 134 237
+285 240 121
+286 240 241
+288 241 242
+289 241 47
+290 243 244
+291 243 240
+292 245 154
+293 245 118
+294 233 245
+295 245 116
+296 246 139
+298 248 214
+301 250 138
+302 250 216
+303 252 140
+304 251 250
+305 251 142
+306 251 253
+307 253 143
+308 254 143
+309 254 253
+310 185 172
+311 255 140
+312 256 185
+313 257 258
+314 258 259
+315 172 257
+316 259 160
+317 260 261
+318 261 262
+319 262 263
+320 263 264
+321 243 260
+322 264 150
+323 264 149
+324 150 265
+327 255 141
+329 268 167
+330 267 168
+331 270 269
+332 270 169
+333 270 231
+334 184 271
+335 111 271
+336 271 183
+337 272 183
+338 273 145
+339 1 274
+340 274 250
+341 274 217
+342 13 275
+343 275 105
+344 275 104
+345 176 276
+346 276 174
+347 277 276
+348 247 176
+351 257 278
+352 278 188
+353 183 141
+354 279 141
+355 135 280
+356 280 281
+357 281 6
+358 281 174

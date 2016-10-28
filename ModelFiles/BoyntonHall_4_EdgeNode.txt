@@ -1,0 +1,188 @@
+NODES
+1 859 824 0 BoyntonHall 4 Waypoint Waypoint;
+2 859 779 0 BoyntonHall 4 Waypoint Waypoint;
+3 859 681 0 BoyntonHall 4 Waypoint Waypoint;
+4 866 480 0 BoyntonHall 4 Waypoint Waypoint;
+6 815 296 0 BoyntonHall 4 Waypoint Waypoint;
+7 747 296 0 BoyntonHall 4 Waypoint Waypoint;
+8 673 296 0 BoyntonHall 4 Waypoint Waypoint;
+10 544 296 0 BoyntonHall 4 Waypoint Waypoint;
+12 544 445 0 BoyntonHall 4 Waypoint Waypoint;
+14 473 445 0 BoyntonHall 4 Waypoint Waypoint;
+15 429 445 0 BoyntonHall 4 Waypoint Waypoint;
+17 298 480 0 BoyntonHall 4 Waypoint Waypoint;
+18 271 480 0 BoyntonHall 4 Vending Vending;
+20 266 749 0 BoyntonHall 4 Waypoint Waypoint;
+22 141 749 0 BoyntonHall 4 Waypoint Waypoint;
+23 16 749 0 BoyntonHall 4 Classroom BH;224;
+24 16 719 0 BoyntonHall 4 Waypoint Waypoint;
+25 16 666 0 BoyntonHall 4 Waypoint Waypoint;
+26 16 433 0 BoyntonHall 4 Waypoint Waypoint;
+28 182 280 0 BoyntonHall 4 Waypoint Waypoint;
+29 182 242 0 BoyntonHall 4 Waypoint Waypoint;
+31 30 155 0 BoyntonHall 4 Classroom BH;201;
+33 934 773 0 BoyntonHall 4 Waypoint Waypoint;
+34 896 773 0 BoyntonHall 4 Waypoint Waypoint;
+35 889 681 0 BoyntonHall 4 Waypoint Waypoint;
+37 902 480 0 BoyntonHall 4 Waypoint Waypoint;
+39 902 301 0 BoyntonHall 4 Waypoint Waypoint;
+41 883 272 0 BoyntonHall 4 Waypoint Waypoint;
+45 815 272 0 BoyntonHall 4 Waypoint Waypoint;
+46 747 272 0 BoyntonHall 4 Waypoint Waypoint;
+47 673 272 0 BoyntonHall 4 Waypoint Waypoint;
+52 544 272 0 BoyntonHall 4 Classroom BH;216;
+55 494 373 0 BoyntonHall 4 Waypoint Waypoint;
+58 835 688 0 BoyntonHall 4 Waypoint Waypoint;
+59 786 719 0 BoyntonHall 4 Waypoint Waypoint;
+60 786 799 0 BoyntonHall 4 Classroom BH;213B;
+63 473 517 0 BoyntonHall 4 Waypoint Waypoint;
+64 473 799 0 BoyntonHall 4 Waypoint Waypoint;
+65 450 799 0 BoyntonHall 4 Waypoint Waypoint;
+66 429 517 0 BoyntonHall 4 Waypoint Waypoint;
+67 363 799 0 BoyntonHall 4 Waypoint Waypoint;
+68 422 799 0 BoyntonHall 4 Classroom BH;200A;
+69 298 799 0 BoyntonHall 4 Classroom BH;205;
+70 266 938 0 BoyntonHall 4 Waypoint Waypoint;
+73 141 547 0 BoyntonHall 4 Classroom BH;206;
+75 326 155 0 BoyntonHall 4 Waypoint Waypoint;
+78 385 212 0 BoyntonHall 4 Waypoint Waypoint;
+82 249 120 0 BoyntonHall 4 Classroom BH;204;
+83 208 242 0 BoyntonHall 4 Waypoint Waypoint;
+87 596 264 0 BoyntonHall 4 Waypoint Waypoint;
+89 16 315 0 BoyntonHall 4 Waypoint Waypoint;
+90 228 749 0 BoyntonHall 4 Classroom BH;207;
+93 141 666 0 BoyntonHall 4 Waypoint Waypoint;
+94 271 666 0 BoyntonHall 4 Waypoint Waypoint;
+95 271 433 0 BoyntonHall 4 Waypoint Waypoint;
+96 182 433 0 BoyntonHall 4 Waypoint Waypoint;
+97 86 242 0 BoyntonHall 4 Waypoint Waypoint;
+98 385 445 0 BoyntonHall 4 Waypoint Waypoint;
+99 326 398 0 BoyntonHall 4 Classroom BH;210;
+100 385 398 0 BoyntonHall 4 Waypoint Waypoint;
+101 385 480 0 BoyntonHall 4 Waypoint Waypoint;
+102 385 88 0 BoyntonHall 4 Classroom BH;211;
+103 326 88 0 BoyntonHall 4 Waypoint Waypoint;
+104 429 379 0 BoyntonHall 4 Elevator Elevator;
+105 494 445 0 BoyntonHall 4 Waypoint Waypoint;
+106 786 688 0 BoyntonHall 4 Waypoint Waypoint;
+107 652 688 0 BoyntonHall 4 Classroom BH;213;
+108 859 918 0 BoyntonHall 4 Classroom BH;224;
+109 249 242 0 BoyntonHall 4 Waypoint Waypoint;
+110 182 120 0 BoyntonHall 4 Classroom BH;202;
+111 647 445 0 BoyntonHall 4 Waypoint Waypoint;
+112 866 445 0 BoyntonHall 4 Waypoint Waypoint;
+113 866 296 0 BoyntonHall 4 Waypoint Waypoint;
+114 596 296 0 BoyntonHall 4 Waypoint Waypoint;
+115 544 347 0 BoyntonHall 4 Waypoint Waypoint;
+116 494 347 0 BoyntonHall 4 Waypoint Waypoint;
+117 952 681 0 BoyntonHall 4 Classroom BH;223;
+118 960 480 0 BoyntonHall 4 Classroom BH;222;
+119 977 301 0 BoyntonHall 4 Waypoint Waypoint;
+120 977 179 0 BoyntonHall 4 Classroom BH;221;
+121 883 88 0 BoyntonHall 4 Classroom BH;219;
+122 673 81 0 BoyntonHall 4 Classroom BH;217;
+125 815 88 0 BoyntonHall 4 Classroom BH;220;
+126 747 88 0 BoyntonHall 4 Classroom BH;218;
+127 596 81 0 BoyntonHall 4 Classroom BH;215;
+128 422 574 0 BoyntonHall 4 Waypoint Waypoint;
+129 358 574 3 BoyntonHall 4 Stairs Stairs;
+130 482 296 0 BoyntonHall 4 Classroom BH;212;
+131 934 839 4 BoyntonHall 4 Stairs Stairs;
+EDGES
+1 1 2
+2 2 3
+3 3 4
+6 6 7
+7 7 8
+14 14 15
+17 17 18
+22 22 23
+23 23 24
+24 24 25
+25 25 26
+28 28 29
+33 83 29
+41 70 20
+42 69 20
+43 67 69
+44 67 68
+45 68 65
+46 65 64
+48 64 63
+51 66 15
+52 63 14
+66 52 10
+72 47 8
+76 46 7
+81 6 45
+88 37 4
+94 59 60
+95 3 58
+97 35 3
+98 2 34
+99 34 33
+101 89 26
+102 20 90
+103 90 22
+104 25 93
+105 93 94
+106 94 20
+107 94 18
+108 73 93
+109 18 95
+110 95 96
+111 96 26
+112 28 96
+113 29 97
+114 97 31
+115 17 101
+116 101 98
+117 98 15
+118 100 98
+119 100 99
+120 100 78
+121 78 102
+122 102 103
+123 103 75
+124 15 104
+125 55 105
+126 105 12
+127 14 105
+128 58 106
+129 106 59
+131 107 106
+132 1 108
+133 109 82
+134 109 83
+135 110 29
+136 111 107
+137 12 111
+138 111 112
+139 112 4
+140 113 6
+141 113 112
+142 87 114
+143 114 8
+144 10 114
+145 115 10
+146 115 12
+147 55 116
+148 116 115
+149 41 113
+150 113 39
+154 122 47
+156 41 121
+157 125 121
+158 125 45
+159 46 126
+160 87 127
+161 127 122
+162 119 39
+163 118 37
+164 117 35
+165 66 128
+166 129 128
+167 128 68
+168 120 119
+169 130 116
+170 33 131

@@ -1,0 +1,164 @@
+NODES
+1 862 951 0 BoyntonHall 2 Classroom BH;001;
+2 862 844 0 BoyntonHall 2 Waypoint Waypoint;
+5 783 539 0 BoyntonHall 2 Waypoint Waypoint;
+6 732 539 0 BoyntonHall 2 Waypoint Waypoint;
+7 663 533 0 BoyntonHall 2 Waypoint Waypoint;
+8 605 533 0 BoyntonHall 2 Waypoint Waypoint;
+9 492 533 0 BoyntonHall 2 Waypoint Waypoint;
+10 385 533 0 BoyntonHall 2 Waypoint Waypoint;
+16 37 179 0 BoyntonHall 2 Classroom BH;018;
+17 106 271 0 BoyntonHall 2 Waypoint Waypoint;
+18 189 325 0 BoyntonHall 2 Waypoint Waypoint;
+19 157 185 0 BoyntonHall 2 Classroom BH;017;
+22 298 325 0 BoyntonHall 2 Classroom BH;014A;
+23 240 325 0 BoyntonHall 2 Classroom BH;015;
+26 373 291 0 BoyntonHall 2 Waypoint Waypoint;
+27 385 308 0 BoyntonHall 2 Waypoint Waypoint;
+28 409 374 0 BoyntonHall 2 Elevator ELEVATOR;
+29 480 213 0 BoyntonHall 2 Classroom BH;009;
+30 516 279 0 BoyntonHall 2 Waypoint Waypoint;
+31 583 279 0 BoyntonHall 2 Classroom BH;008;
+33 633 185 0 BoyntonHall 2 Waypoint Waypoint;
+36 633 365 0 BoyntonHall 2 Waypoint Waypoint;
+37 583 348 0 BoyntonHall 2 Waypoint Waypoint;
+39 487 386 0 BoyntonHall 2 Classroom BH;010;
+40 487 467 0 BoyntonHall 2 Waypoint Waypoint;
+41 605 90 1 BoyntonHall 2 Waypoint Waypoint;
+42 605 279 0 BoyntonHall 2 Waypoint Waypoint;
+45 783 507 0 BoyntonHall 2 Waypoint Waypoint;
+46 882 300 0 BoyntonHall 2 Waypoint Waypoint;
+50 775 589 0 BoyntonHall 2 Waypoint Waypoint;
+52 732 589 0 BoyntonHall 2 Waypoint Waypoint;
+54 663 589 0 BoyntonHall 2 Waypoint Waypoint;
+56 500 589 0 BoyntonHall 2 Waypoint Waypoint;
+58 385 589 0 BoyntonHall 2 Waypoint Waypoint;
+59 298 494 0 BoyntonHall 2 Waypoint Waypoint;
+61 240 560 0 BoyntonHall 2 Waypoint Waypoint;
+65 76 773 0 BoyntonHall 2 Waypoint Waypoint;
+69 86 533 0 BoyntonHall 2 Classroom BH;020;
+70 136 419 0 BoyntonHall 2 Waypoint Waypoint;
+72 55 374 0 BoyntonHall 2 Waypoint Waypoint;
+73 182 413 0 BoyntonHall 2 Classroom BH;016;
+74 320 614 3 BoyntonHall 2 Stairs Stairs;
+75 915 806 4 BoyntonHall 2 Stairs Stairs;
+76 862 790 0 BoyntonHall 2 Waypoint Waypoint;
+80 343 179 0 BoyntonHall 2 Classroom BH;013;
+81 298 263 0 BoyntonHall 2 Classroom BH;014A;
+82 298 154 0 BoyntonHall 2 Classroom BH;014;
+83 189 271 0 BoyntonHall 2 Waypoint Waypoint;
+84 106 374 0 BoyntonHall 2 Waypoint Waypoint;
+85 136 374 0 BoyntonHall 2 Waypoint Waypoint;
+86 182 374 0 BoyntonHall 2 Waypoint Waypoint;
+87 240 374 0 BoyntonHall 2 Waypoint Waypoint;
+88 298 374 0 BoyntonHall 2 Waypoint Waypoint;
+89 385 374 0 BoyntonHall 2 Waypoint Waypoint;
+90 343 291 0 BoyntonHall 2 Waypoint Waypoint;
+91 320 533 0 BoyntonHall 2 Waypoint Waypoint;
+92 320 494 0 BoyntonHall 2 Waypoint Waypoint;
+93 240 494 0 BoyntonHall 2 Classroom BH;021A;
+94 385 663 0 BoyntonHall 2 Classroom BH;012;
+95 500 663 0 BoyntonHall 2 Classroom BH;011;
+96 663 670 0 BoyntonHall 2 Classroom BH;005;
+97 732 663 0 BoyntonHall 2 Classroom BH;004;
+98 775 663 0 BoyntonHall 2 Classroom BH;004A;
+99 862 582 0 BoyntonHall 2 Waypoint Waypoint;
+100 971 582 0 BoyntonHall 2 Waypoint Waypoint;
+102 240 670 0 BoyntonHall 2 Waypoint Waypoint;
+103 240 714 0 BoyntonHall 2 Waypoint Waypoint;
+104 182 714 0 BoyntonHall 2 Classroom BH;021;
+105 76 714 0 BoyntonHall 2 Waypoint Waypoint;
+107 182 773 0 BoyntonHall 2 Waypoint Waypoint;
+108 76 836 0 BoyntonHall 2 Classroom BH;021B;
+109 182 836 0 BoyntonHall 2 Classroom BH;021C;
+110 254 773 0 BoyntonHall 2 Waypoint Waypoint;
+111 254 836 0 BoyntonHall 2 Classroom BH;021D;
+112 963 300 0 BoyntonHall 2 Classroom BH;002;
+113 783 300 0 BoyntonHall 2 Classroom BH;003;
+114 680 185 0 BoyntonHall 2 Classroom BH;006;
+115 680 365 0 BoyntonHall 2 Classroom BH;003A;
+116 541 348 0 BoyntonHall 2 Classroom BH;007;
+117 605 348 0 BoyntonHall 2 Waypoint Waypoint;
+118 862 539 0 BoyntonHall 2 Waypoint Waypoint;
+EDGES
+1 1 2
+5 5 6
+6 6 7
+7 7 8
+8 8 9
+9 9 10
+18 70 69
+19 16 17
+30 26 27
+43 10 58
+45 56 9
+47 7 54
+50 52 6
+51 5 50
+53 29 30
+54 39 40
+55 40 9
+58 30 31
+60 41 42
+62 33 42
+63 31 42
+69 5 45
+76 75 76
+77 2 76
+84 81 82
+85 22 81
+86 18 83
+87 83 17
+88 19 83
+89 84 85
+90 85 86
+91 86 87
+92 87 88
+94 22 88
+95 23 87
+96 18 86
+97 73 86
+98 85 70
+99 84 72
+100 89 27
+101 89 10
+102 89 28
+103 89 88
+104 26 90
+105 90 80
+106 91 74
+107 91 10
+108 92 91
+109 59 92
+110 93 59
+111 93 61
+112 58 94
+113 56 95
+114 54 96
+115 52 97
+116 50 98
+117 99 76
+118 99 100
+120 102 103
+121 103 104
+122 104 105
+123 105 65
+124 61 102
+125 103 110
+126 110 111
+127 104 107
+128 107 109
+129 65 108
+130 100 112
+131 46 112
+132 113 46
+133 113 45
+134 33 114
+135 116 37
+136 117 37
+137 117 42
+138 117 36
+139 36 115
+140 117 8
+141 118 99
+142 5 118

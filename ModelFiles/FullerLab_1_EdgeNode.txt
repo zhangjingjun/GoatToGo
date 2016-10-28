@@ -1,0 +1,112 @@
+NODES
+1 619 181 4 FullerLab 1 Stairs Stairs;
+2 662 181 0 FullerLab 1 Waypoint Waypoint;
+3 662 241 0 FullerLab 1 Waypoint Waypoint;
+4 734 241 0 FullerLab 1 Waypoint Waypoint;
+5 734 263 0 FullerLab 1 Waypoint Waypoint;
+6 734 284 0 FullerLab 1 Waypoint Waypoint;
+7 734 367 0 FullerLab 1 Waypoint Waypoint;
+8 682 367 0 FullerLab 1 Classroom FL;A24;
+9 682 458 0 FullerLab 1 Waypoint Waypoint;
+10 734 458 0 FullerLab 1 Waypoint Waypoint;
+11 734 493 0 FullerLab 1 Waypoint Waypoint;
+12 628 493 0 FullerLab 1 Classroom FL;A25;
+13 628 613 0 FullerLab 1 Waypoint Waypoint;
+14 734 613 0 FullerLab 1 Waypoint Waypoint;
+15 734 715 0 FullerLab 1 Waypoint Waypoint;
+16 787 715 0 FullerLab 1 Waypoint Waypoint;
+17 675 715 0 FullerLab 1 Waypoint Waypoint;
+18 734 206 0 FullerLab 1 Waypoint Waypoint;
+19 780 206 0 FullerLab 1 Waypoint Waypoint;
+20 875 206 0 FullerLab 1 Waypoint Waypoint;
+21 875 146 0 FullerLab 1 Waypoint Waypoint;
+22 809 146 0 FullerLab 1 Classroom FL;A21;
+23 740 146 0 FullerLab 1 Waypoint Waypoint;
+24 656 90 0 FullerLab 1 Classroom FL;A22;
+25 734 106 0 FullerLab 1 Classroom FL;A21A;
+26 809 106 0 FullerLab 1 Waypoint Waypoint;
+27 880 73 0 FullerLab 1 Classroom FL;A21B;
+28 875 241 0 FullerLab 1 Classroom FL;A19;
+29 780 263 0 FullerLab 1 Classroom FL;A20;
+30 662 284 0 FullerLab 1 Classroom FL;A23;
+31 734 554 0 FullerLab 1 Waypoint Waypoint;
+32 794 554 0 FullerLab 1 Waypoint Waypoint;
+33 907 554 0 FullerLab 1 Classroom FL;A15;
+34 794 466 0 FullerLab 1 Classroom FL;A18;
+35 794 643 0 FullerLab 1 Classroom FL;A14;
+36 848 755 0 FullerLab 1 Classroom FL;A13;
+37 565 613 0 FullerLab 1 Waypoint Waypoint;
+38 565 643 0 FullerLab 1 Elevator Elevator;
+39 565 581 0 FullerLab 1 Classroom FL;A05;
+40 514 613 0 FullerLab 1 Classroom FL;A10;
+41 508 715 0 FullerLab 1 Waypoint Waypoint;
+42 591 715 0 FullerLab 1 Classroom FL;A07;
+43 503 870 0 FullerLab 1 Waypoint Waypoint;
+44 591 870 0 FullerLab 1 Waypoint Waypoint;
+45 675 870 0 FullerLab 1 Waypoint Waypoint;
+46 740 870 0 FullerLab 1 Waypoint Waypoint;
+47 740 932 0 FullerLab 1 Waypoint Waypoint;
+48 740 968 0 FullerLab 1 Waypoint Waypoint;
+49 836 968 0 FullerLab 1 Waypoint Waypoint;
+50 831 870 0 FullerLab 1 Waypoint Waypoint;
+51 831 913 0 FullerLab 1 Classroom FL;A12;
+52 619 668 3 FullerLab 1 Stairs Stairs;
+EDGES
+1 1 2
+2 2 3
+3 3 4
+4 4 5
+5 5 6
+6 6 7
+7 7 8
+8 8 9
+9 9 10
+10 10 11
+11 11 12
+12 12 13
+13 13 14
+14 14 15
+15 15 16
+16 16 17
+17 18 19
+18 19 20
+19 20 21
+20 21 22
+21 22 23
+22 23 18
+23 18 4
+24 44 45
+25 45 46
+26 46 47
+27 47 48
+28 48 49
+29 24 2
+30 25 23
+31 25 26
+32 26 22
+33 26 27
+34 22 19
+35 19 29
+36 20 28
+37 29 5
+38 30 6
+39 7 10
+40 11 31
+41 31 14
+42 34 32
+43 32 33
+44 32 35
+45 32 31
+46 16 36
+47 39 37
+48 37 13
+49 37 38
+50 37 40
+51 40 41
+52 41 42
+53 44 42
+54 41 43
+55 43 44
+56 46 50
+57 50 51
+58 13 52

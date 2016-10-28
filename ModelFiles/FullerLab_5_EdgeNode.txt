@@ -1,0 +1,110 @@
+NODES
+1 963 675 0 FullerLab 5 Waypoint Waypoint;
+2 919 675 0 FullerLab 5 Waypoint Waypoint;
+3 828 675 0 FullerLab 5 Classroom FL;310;
+5 665 698 0 FullerLab 5 Waypoint Waypoint;
+6 665 806 0 FullerLab 5 Waypoint Waypoint;
+7 665 894 0 FullerLab 5 Office FL;311;
+8 582 894 0 FullerLab 5 Waypoint Waypoint;
+9 582 806 0 FullerLab 5 Classroom FL;313;
+10 539 806 0 FullerLab 5 Waypoint Waypoint;
+11 539 966 0 FullerLab 5 Office FL;312;
+12 576 966 0 FullerLab 5 Waypoint Waypoint;
+13 665 966 0 FullerLab 5 Waypoint Waypoint;
+14 582 698 0 FullerLab 5 Waypoint Waypoint;
+15 469 698 0 FullerLab 5 Waypoint Waypoint;
+16 396 698 0 FullerLab 5 Waypoint Waypoint;
+17 362 698 0 FullerLab 5 Waypoint Waypoint;
+18 310 698 0 FullerLab 5 Waypoint Waypoint;
+19 200 698 0 FullerLab 5 Waypoint Waypoint;
+20 162 698 0 FullerLab 5 Waypoint Waypoint;
+21 162 731 0 FullerLab 5 Waypoint Waypoint;
+22 162 776 0 FullerLab 5 Waypoint Waypoint;
+23 162 798 0 FullerLab 5 Waypoint Waypoint;
+24 162 966 0 FullerLab 5 Waypoint Waypoint;
+25 117 966 0 FullerLab 5 Classroom FL;320;
+26 117 782 0 FullerLab 5 Waypoint Waypoint;
+27 117 738 2 FullerLab 5 Stairs Stairs;
+28 136 731 0 FullerLab 5 Waypoint Waypoint;
+29 735 698 0 FullerLab 5 Waypoint Waypoint;
+30 709 806 0 FullerLab 5 Classroom FL;306;
+31 464 766 0 FullerLab 5 Classroom FL;314;
+32 396 766 0 FullerLab 5 Waypoint Waypoint;
+33 396 731 0 FullerLab 5 Waypoint Waypoint;
+34 362 731 0 FullerLab 5 Classroom FL;315;
+35 310 731 0 FullerLab 5 Waypoint Waypoint;
+36 310 776 0 FullerLab 5 Waypoint Waypoint;
+37 241 776 0 FullerLab 5 Classroom FL;316;
+38 362 825 0 FullerLab 5 Waypoint Waypoint;
+39 290 825 0 FullerLab 5 Waypoint Waypoint;
+40 241 825 0 FullerLab 5 Office FL;319;
+41 241 966 0 FullerLab 5 Waypoint Waypoint;
+42 362 925 0 FullerLab 5 Office FL;318;
+43 431 825 0 FullerLab 5 Waypoint Waypoint;
+44 431 925 0 FullerLab 5 Office FL;317;
+45 629 806 0 FullerLab 5 Classroom FL;307;
+46 629 698 0 FullerLab 5 Elevator Elevator;
+47 665 755 3 FullerLab 5 Stairs Stairs;
+<<<<<<< HEAD
+=======
+48 646 299 4 FullerLab 5 Stairs Stairs;
+49 646 478 0 FullerLab 5 Office Emergency;Generator;
+50 304 478 0 FullerLab 5 Waypoint Room;of;DragonBorn;
+>>>>>>> origin/master
+EDGES
+1 1 2
+2 2 3
+6 6 7
+7 7 8
+8 8 9
+9 9 10
+10 10 11
+11 11 12
+12 12 13
+13 13 7
+14 14 15
+15 15 16
+16 16 17
+17 17 18
+18 18 19
+19 19 20
+20 20 21
+21 21 22
+22 22 23
+23 23 24
+24 24 25
+25 25 26
+26 26 27
+27 27 28
+28 28 21
+30 26 23
+31 8 12
+32 9 14
+33 29 5
+34 29 3
+35 30 6
+36 16 33
+37 17 34
+38 18 35
+39 35 36
+40 36 37
+41 33 32
+42 32 31
+43 38 39
+44 39 40
+45 40 41
+46 41 24
+47 34 38
+48 38 43
+49 43 44
+50 38 42
+51 45 9
+52 5 46
+53 46 14
+54 5 47
+55 47 6
+<<<<<<< HEAD
+=======
+56 48 49
+57 50 49
+>>>>>>> origin/master

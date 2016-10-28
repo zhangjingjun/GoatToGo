@@ -1,0 +1,213 @@
+NODES
+1 636 139 0 FullerLab 3 Waypoint Waypoint;
+2 664 139 0 FullerLab 3 Waypoint Waypoint;
+3 721 139 0 FullerLab 3 Waypoint Waypoint;
+4 745 139 0 FullerLab 3 Waypoint Waypoint;
+5 797 139 0 FullerLab 3 Waypoint Waypoint;
+6 835 139 0 FullerLab 3 Waypoint Waypoint;
+7 835 186 0 FullerLab 3 Waypoint Waypoint;
+8 835 210 0 FullerLab 3 Waypoint Waypoint;
+9 835 261 0 FullerLab 3 Waypoint Waypoint;
+10 835 289 0 FullerLab 3 Waypoint Waypoint;
+11 835 339 0 FullerLab 3 Waypoint Waypoint;
+12 835 364 0 FullerLab 3 Waypoint Waypoint;
+13 835 413 0 FullerLab 3 Waypoint Waypoint;
+14 835 434 0 FullerLab 3 Waypoint Waypoint;
+15 835 489 0 FullerLab 3 Waypoint Waypoint;
+17 835 611 0 FullerLab 3 Waypoint Waypoint;
+18 753 611 0 FullerLab 3 Office FL;146;
+19 753 635 0 FullerLab 3 Waypoint Waypoint;
+20 664 635 0 FullerLab 3 Waypoint Waypoint;
+21 664 687 3 FullerLab 3 Stairs Stairs;
+22 664 765 0 FullerLab 3 Waypoint Waypoint;
+23 664 793 0 FullerLab 3 Waypoint Waypoint;
+24 664 825 0 FullerLab 3 Waypoint Waypoint;
+25 589 825 0 FullerLab 3 Waypoint Waypoint;
+26 565 877 0 FullerLab 3 Waypoint Waypoint;
+27 435 877 0 FullerLab 3 Waypoint Waypoint;
+28 354 877 0 FullerLab 3 Waypoint Waypoint;
+29 354 830 0 FullerLab 3 Waypoint Waypoint;
+30 354 775 0 FullerLab 3 Waypoint Waypoint;
+31 354 715 0 FullerLab 3 Office FL;117;
+32 302 715 0 FullerLab 3 Waypoint Waypoint;
+33 258 715 0 FullerLab 3 Waypoint Waypoint;
+34 258 793 0 FullerLab 3 Waypoint Waypoint;
+35 258 842 0 FullerLab 3 Waypoint Waypoint;
+36 258 890 0 FullerLab 3 Waypoint Waypoint;
+37 185 890 0 FullerLab 3 Waypoint Waypoint;
+38 30 890 0 FullerLab 3 Waypoint Waypoint;
+39 30 676 0 FullerLab 3 Waypoint Waypoint;
+40 185 676 0 FullerLab 3 Office FL;126;
+41 249 676 0 FullerLab 3 Waypoint Waypoint;
+42 291 676 0 FullerLab 3 Waypoint Waypoint;
+43 291 635 0 FullerLab 3 Waypoint Waypoint;
+44 354 635 0 FullerLab 3 Waypoint Waypoint;
+45 414 635 0 FullerLab 3 Stairs Stairs;
+46 441 635 0 FullerLab 3 Waypoint Waypoint;
+47 476 635 0 FullerLab 3 Waypoint Waypoint;
+48 500 635 0 FullerLab 3 Waypoint Waypoint;
+49 581 635 0 FullerLab 3 Waypoint Waypoint;
+50 612 635 0 FullerLab 3 Waypoint Waypoint;
+51 664 83 0 FullerLab 3 Office FL;139;
+52 664 201 4 FullerLab 3 Stairs Stairs;
+53 721 88 0 FullerLab 3 Office FL;138;
+54 721 186 0 FullerLab 3 Office FL;140;
+55 745 88 0 FullerLab 3 Office FL;137;
+56 797 88 0 FullerLab 3 Office FL;136;
+57 868 101 0 FullerLab 3 Office FL;135;
+58 874 186 0 FullerLab 3 Office FL;134;
+59 874 210 0 FullerLab 3 Office FL;133;
+60 784 261 0 FullerLab 3 Office FL;141;
+61 874 289 0 FullerLab 3 Office FL;132;
+62 784 339 0 FullerLab 3 Office FL;142;
+63 881 364 0 FullerLab 3 Office FL;131;
+64 784 413 0 FullerLab 3 Office FL;143;
+65 896 434 0 FullerLab 3 Office FL;130;
+69 874 611 0 FullerLab 3 Office FL;147;
+70 705 765 0 FullerLab 3 Office FL;110;
+71 612 661 0 FullerLab 3 Elevator Elevator;
+72 705 798 0 FullerLab 3 Office FL;111;
+73 664 850 0 FullerLab 3 Waypoint Waypoint;
+74 705 850 0 FullerLab 3 Office FL;112;
+75 620 850 0 FullerLab 3 Office FL;113;
+76 500 676 0 FullerLab 3 Men's_Restroom Men's_Restroom;
+77 476 676 0 FullerLab 3 Woman's_Restroom Woman's_Restroom;
+78 414 715 0 FullerLab 3 Waypoint Waypoint;
+79 291 890 0 FullerLab 3 Office FL;122;
+80 291 959 0 FullerLab 3 Waypoint Waypoint;
+81 375 959 0 FullerLab 3 Waypoint Waypoint;
+82 197 959 0 FullerLab 3 Waypoint Waypoint;
+83 234 635 0 FullerLab 3 Waypoint Waypoint;
+84 234 595 0 FullerLab 3 Office FL;121;
+85 141 618 0 FullerLab 3 Office FL;127;
+86 835 515 0 FullerLab 3 Waypoint Waypoint;
+87 790 489 0 FullerLab 3 Office FL;144;
+88 790 515 0 FullerLab 3 Office FL;145;
+89 889 515 0 FullerLab 3 Office FL;129;
+90 441 669 0 FullerLab 3 Office FL;109;
+91 214 715 0 FullerLab 3 Office FL;123;
+92 214 793 0 FullerLab 3 Office FL;124;
+93 214 842 0 FullerLab 3 Office FL;125;
+94 302 830 0 FullerLab 3 Office FL;120;
+95 302 775 0 FullerLab 3 Office FL;119;
+96 302 739 0 FullerLab 3 Office FL;118;
+97 409 830 0 FullerLab 3 Waypoint Waypoint;
+98 581 748 0 FullerLab 3 Office FL;113;
+99 705 635 0 FullerLab 0 Vending Vending;
+100 425 595 6 FullerLab 3 Waypoint WayPoint;
+101 517 595 0 FullerLab 3 Waypoint NULL;
+102 525 562 0 FullerLab 3 Waypoint NULL;
+103 441 562 0 FullerLab 3 Waypoint NULL;
+104 601 595 7 FullerLab 3 Waypoint NULL;
+105 500 496 0 FullerLab 3 Classroom Upper;Fuller;
+106 607 489 0 FullerLab 3 Waypoint NULL;
+107 581 535 0 FullerLab 3 Waypoint Waypoint;
+108 557 550 0 FullerLab 3 Waypoint NULL;
+EDGES
+1 1 2
+2 2 3
+3 3 4
+4 4 5
+5 5 6
+6 6 7
+7 7 8
+8 8 9
+9 9 10
+10 10 11
+11 11 12
+12 12 13
+13 13 14
+14 14 15
+16 17 18
+17 18 19
+19 20 21
+20 21 22
+21 22 23
+22 23 24
+23 24 25
+24 25 26
+25 26 27
+26 27 28
+27 28 29
+28 29 30
+29 30 31
+30 31 32
+31 32 33
+32 33 34
+33 34 35
+34 35 36
+35 36 37
+36 37 38
+37 38 39
+38 39 40
+39 40 41
+40 41 42
+41 42 43
+42 43 44
+43 44 45
+44 45 46
+45 46 47
+46 47 48
+47 48 49
+48 49 50
+49 50 20
+50 51 2
+51 52 2
+52 53 3
+53 3 54
+54 55 4
+55 56 5
+56 57 6
+57 58 7
+58 59 8
+59 60 9
+60 61 10
+61 62 11
+62 63 12
+63 64 13
+64 65 14
+65 15 86
+66 87 15
+67 86 88
+68 86 17
+69 89 86
+70 69 17
+71 70 22
+72 72 23
+73 24 73
+74 74 73
+75 73 75
+76 50 71
+77 48 76
+78 47 77
+79 90 46
+80 45 78
+81 78 31
+82 79 28
+83 79 36
+84 79 80
+85 80 82
+86 80 81
+87 37 40
+88 85 83
+89 83 84
+90 83 43
+91 32 96
+92 95 30
+93 29 97
+94 29 94
+95 35 93
+96 92 34
+97 91 33
+98 98 25
+99 19 99
+100 99 20
+101 100 101
+102 101 102
+103 100 45
+104 103 100
+105 104 101
+107 105 103
+108 107 106
+109 107 108
+110 108 102

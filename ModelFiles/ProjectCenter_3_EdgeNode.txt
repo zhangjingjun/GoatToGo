@@ -1,0 +1,86 @@
+NODES
+1 341 131 2 ProjectCenter 3 Stairs Stairs;
+2 341 306 0 ProjectCenter 3 Waypoint Waypoint;
+3 585 306 0 ProjectCenter 3 Waypoint Waypoint;
+4 798 306 0 ProjectCenter 3 Waypoint Waypoint;
+5 874 306 0 ProjectCenter 3 Office PC;109A;
+6 208 306 0 ProjectCenter 3 Waypoint Waypoint;
+7 57 306 0 ProjectCenter 3 Waypoint Waypoint;
+8 57 416 0 ProjectCenter 3 Office PC;102;
+9 57 573 0 ProjectCenter 3 Waypoint Waypoint;
+10 57 869 0 ProjectCenter 3 Waypoint Waypoint;
+11 246 869 0 ProjectCenter 3 Office PC;101;
+12 246 573 0 ProjectCenter 3 Office PC;101B;
+13 319 573 0 ProjectCenter 3 Waypoint Waypoint;
+14 319 410 0 ProjectCenter 3 Waypoint Waypoint;
+15 341 410 0 ProjectCenter 3 Waypoint Waypoint;
+16 400 410 0 ProjectCenter 3 Waypoint Waypoint;
+17 400 478 0 ProjectCenter 3 Waypoint Waypoint;
+18 400 690 0 ProjectCenter 3 Waypoint Waypoint;
+19 542 690 0 ProjectCenter 3 Office PC;106;
+20 542 940 0 ProjectCenter 3 Waypoint Waypoint;
+21 737 940 0 ProjectCenter 3 Waypoint Waypoint;
+22 791 940 0 ProjectCenter 3 Waypoint Waypoint;
+23 791 700 0 ProjectCenter 3 Waypoint Waypoint;
+24 858 700 0 ProjectCenter 3 Waypoint Waypoint;
+25 858 531 0 ProjectCenter 3 Waypoint Waypoint;
+26 902 531 0 ProjectCenter 3 Waypoint Waypoint;
+27 902 676 0 ProjectCenter 3 Waypoint Waypoint;
+28 208 410 0 ProjectCenter 3 Office PC;103;
+29 87 204 0 ProjectCenter 3 Office PC;104;
+30 229 204 0 ProjectCenter 3 Office PC;104A;
+31 585 131 0 ProjectCenter 3 Office PC;107;
+32 709 131 0 ProjectCenter 3 Office PC;108;
+33 798 140 0 ProjectCenter 3 Office PC;108A;
+34 874 140 0 ProjectCenter 3 Office PC;109;
+35 982 525 0 ProjectCenter 3 Office PC;111;
+36 874 834 0 ProjectCenter 3 Office PC;113;
+37 946 834 0 ProjectCenter 3 Office PC;114;
+38 920 940 0 ProjectCenter 3 Office PC;100A;
+39 782 520 0 ProjectCenter 3 Office PC;100C;
+40 974 676 0 ProjectCenter 3 Office PC;112;
+41 542 1007 1 ProjectCenter 3 Waypoint Front;Door;
+EDGES
+1 1 2
+2 2 3
+3 3 4
+4 4 5
+6 6 7
+7 7 8
+8 8 9
+9 9 10
+10 10 11
+11 11 12
+12 12 13
+13 13 14
+14 14 15
+15 15 16
+16 16 17
+17 17 18
+18 18 19
+19 19 20
+20 20 21
+21 21 22
+22 22 23
+23 23 24
+24 24 25
+25 25 26
+26 26 27
+27 37 38
+28 36 38
+29 38 22
+30 35 26
+31 34 5
+32 33 4
+33 32 31
+34 31 3
+35 29 30
+36 30 6
+37 6 28
+38 9 12
+39 23 39
+40 39 4
+41 27 40
+42 2 15
+43 6 2
+44 20 41
